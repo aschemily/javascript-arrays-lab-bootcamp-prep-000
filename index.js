@@ -26,4 +26,6 @@ function prependKitten(name){
     return newarray;
 }
 
-function 
+function removeLastKitten(){
+  return kittens.slice();
+}
