@@ -22,7 +22,6 @@ function appendKitten (name){
 }
 
 function prependKitten(name){
-  var newarray = [name,...kittens]{
+  var newarray = [name,...kittens]
     return newarray;
-  }
 }
